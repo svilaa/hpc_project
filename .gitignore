@@ -1,3 +1,5 @@
+convolutionOMP
+
 # Object files
 *.o
 *.ko
